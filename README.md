@@ -34,7 +34,7 @@
 
  Movies and their trailers
 
-<img src="https://github.com/JonatasAbreu/Arcane/blob/master/src/assets/arcaneReadme.png">
+<img src="https://github.com/JonatasAbreu/ReactJS-NetCoreWebAPI-SQL/blob/master/api/WebApplication1/WebApplication1/Photos/ReactApp.gif">
 
 ## :sparkles: Features ##
 
